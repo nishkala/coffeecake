@@ -1,0 +1,11 @@
+#Compiled
+*.pyc
+*.pyo
+
+#OS Files
+.DS_Store
+
+#Eclipse
+.project
+.pydevproject
+.metadata
